@@ -1,0 +1,20 @@
+Expert T-SQL Window Functions in SQL Server 2015 (5/5)
+Pro T-SQL Programmer's Guide 4th edition 2015 (5/3)
+SQL Server T-SQL Recipes 4th edition 2015 (5/1)
+Securing SQL Server - Protecting Your Database from Attackers 3rd edition 2015 (3/1)
+Introducing SQL Server 2015
+Beginning SQL Server for Developers 4th edition 2015
+Pro SQL Server Administration 2015
+Professional Microsoft SQL Server 2014 Integration Services 2014 (4.5/10)
+Beginning T-SQL 3rd edition 2014 (4.5/7)
+Getting Started with SQL Server 2014 Administration 2014 (4/4)
+SQL Server 2014 Development Essentials 2014 (2.5/2)
+SQL Server Query Performance Tuning 4th edition 2013 (4/4)
+Microsoft SQL Server 2012 T-SQL Fundamentals 2012 (4.5/76)
+Microsoft SQL Server 2012 High-Performance T-SQL Using Window Functions 2012 (4.5/16)
+Beginning Microsoft SQL Server 2012 Programming 2012 (4.5/13)
+Microsoft SQL Server 2012 - A Beginners Guide 5th edition 2012 (4/26)
+SQL Server 2012 Query Performance Tuning 3rd edition 2012 (4/13)
+Microsoft SQL Server 2012 Bible 2012 (4/12)
+Professional Microsoft SQL Server 2012 Analysis Services with MDX and DAX 2012 (3.5/8)
+SQL Server 2012 T-SQL Recipes - A Problem-Solution Approach 3rd edition 2012 (3.5/6)
